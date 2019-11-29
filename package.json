@@ -21,9 +21,15 @@
     "typescript": "~3.7.2"
   },
   "dependencies": {
+    "@aws-cdk/aws-apigateway": "^1.18.0",
+    "@aws-cdk/aws-dynamodb": "^1.18.0",
+    "@aws-cdk/aws-iam": "^1.18.0",
+    "@aws-cdk/aws-lambda": "^1.18.0",
     "@aws-cdk/aws-sns": "^1.18.0",
     "@aws-cdk/aws-sns-subscriptions": "^1.18.0",
     "@aws-cdk/aws-sqs": "^1.18.0",
-    "@aws-cdk/core": "^1.18.0"
+    "@aws-cdk/core": "^1.18.0",
+    "@lmig/lm-cdk-dynamo-table-viewer": "^3.0.10",
+    "@types/lodash": "^4.14.149"
   }
 }
