@@ -1,4 +1,4 @@
-# Basic CDK TypeScript project!
+# Basic CDK TypeScript project
 
 It demonstrates a CDK app with an instance of a stack (`CdkWorkshopStack`)
 which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
